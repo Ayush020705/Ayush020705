@@ -63,7 +63,7 @@ Welcome to my GitHub! I’m a passionate and innovative **Software Developer**, 
 ---
 
 ### 🔗 Quick Links
-- [Resume]([https://drive.google.com/drive/folders/1v20d9fvcfTG0EZejv9rCPE_F72P69poG?usp=drive_link](https://drive.google.com/drive/u/0/folders/1v20d9fvcfTG0EZejv9rCPE_F72P69poG))
+- [Resume](https://drive.google.com/drive/u/0/folders/1v20d9fvcfTG0EZejv9rCPE_F72P69poG)
 <!-- - [Project Portfolio](https://your-portfolio-website-link.com) -->
 - [Certifications](https://drive.google.com/drive/folders/1v20d9fvcfTG0EZejv9rCPE_F72P69poG?usp=drive_link)
 
